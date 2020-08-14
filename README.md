@@ -1,5 +1,5 @@
 # UserTags.
-`UserTags` Es un Progarama que pide al usuario que ingrese el usuario de la pagina StackOverFlow y esta misma hara la busqueda de si existe dicho usuario luego muestra un menu para elegir el formato en el que usted quiera presentar kas etiqueas en una nube de palabras.
+`UserTags` Es un Progarama que pide al usuario que ingrese un usuario de la página StackOverFlow y esta misma hará la busqueda de si existe dicho usuario, luego mostrará un menú para elegir el formato en el que usted quiera presentar las etiquetas en una nube de palabras.
 
 ![Logo](https://github.com/JoeTech-Studio/UserTags/blob/master/images/intro.gif)
 
