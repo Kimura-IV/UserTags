@@ -48,7 +48,10 @@ $ pip install matplotlib
 
 $ pip3 install numpy
 
-$ pip install pillow
+$ pip3 install PIL
 
 $ pip3 install wordcloud
+
+$ pip install requests
+
 ```
