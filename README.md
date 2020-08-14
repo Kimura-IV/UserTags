@@ -1,11 +1,12 @@
 # UserTags.
-`UserTags` Es un Programa que pide al usuario que ingrese un usuario de la página StackOverFlow y esta misma hará la busqueda de si existe dicho usuario, luego mostrará un menú para elegir el formato en el que usted quiera presentar las etiquetas en una nube de palabras.
+`UserTags` Es un Programa de busquedad de tags de usuarios (ID) dentro de StakOverFlow en español, que pide al usuario que ingrese un ID (numero) y esta misma hará la busqueda de dicha ID del usuario comprobando si exites o no, para luego mostrar un menú de elección de la forma a presentar la nube de palabras y finalmete presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
 
 ![Logo](https://github.com/JoeTech-Studio/UserTags/blob/master/images/intro.gif)
 
 > Version: Programa implementado en el lenguaje Python3 Version-3.8.2.
 
 # ❱ Menu: Nubes De Palabras.
+  Muestra de las formas a elegir, dentro del programa.
   * [Nube](https://i.imgur.com/lT11QG4.png)
   * [Mario Bros](https://i.imgur.com/28vAIdX.jpg)
   * [Gato Negro](https://i.imgur.com/2gcl5bA.png)
@@ -48,10 +49,7 @@ $ pip install matplotlib
 
 $ pip3 install numpy
 
-$ pip3 install PIL
+$ pip install pillow
 
 $ pip3 install wordcloud
-
-$ pip install requests
-
 ```
