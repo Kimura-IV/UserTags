@@ -1,4 +1,4 @@
-# UserTags.
+#                                               UserTags.
 Progarama que pide al usuario que ingrese el usuario de la pagina StackOverFlow y esta misma hara la busqueda de si existe dicho usuario luego muestra un menu para elegir el formato en el que usted quiera presentar kas etiqueas en una nube de palabras.
 
 ![Logo](https://github.com/JoeTech-Studio/UserTags/blob/master/images/intro.gif)
