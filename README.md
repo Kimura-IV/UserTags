@@ -6,9 +6,9 @@
 > Version: Programa implementado en el lenguaje Python3 Version-3.8.2.
 
 # ❱ Menu: Nubes De Palabras.
-* Nube.
-* Mario Bros.
-* Gato Negro.
+  * [Nube](https://i.imgur.com/lT11QG4.png)
+  * [Mario Bros](https://i.imgur.com/28vAIdX.jpg)
+  * [Gato Negro](https://i.imgur.com/2gcl5bA.png)
 
 ![Imagen](https://github.com/JoeTech-Studio/UserTags/blob/master/images/Menu%20Nubes%20De%20Palabras.jpeg)
 
