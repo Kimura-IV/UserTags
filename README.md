@@ -12,7 +12,7 @@
 
 ![Imagen](https://github.com/JoeTech-Studio/UserTags/blob/master/images/Menu%20Nubes%20De%20Palabras.jpeg)
 
-# > Comandos Para Comprobar La Version De Python3.
+# ❱ Comandos Para Comprobar La Version De Python3.
 
 ```
 $ python3 --version
