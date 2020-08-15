@@ -7,6 +7,7 @@
 [![GitHub](https://img.shields.io/github/followers/Joguisa?label=Jonat%C3%A1n&style=social)](https://github.com/Joguisa)
 [![Twitter](https://img.shields.io/twitter/follow/helenlbv?style=social)](https://twitter.com/helenlbv)
 [![Twitter](https://img.shields.io/twitter/follow/JoeTech_Studio?style=social)](https://twitter.com/JoeTech_Studio)
+[![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
 
 [![Referencias](https://img.shields.io/badge/Referencias-%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/UserTags)
 [![Python Version](https://img.shields.io/badge/Python-3.6%2B-green.svg?logo=python&logoColor=white)](https://docs.python.org/es/3.8/tutorial/index.html)
