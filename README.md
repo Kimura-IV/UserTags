@@ -1,6 +1,8 @@
 # UserTags.
-[![Contactos](https://img.shields.io/badge/Contactos-----%3E-blue)]()
-[![YT](https://img.shields.io/badge/Youtube-Suscribete-red)](https://www.youtube.com/c/JoeTechStudio/)
+[![Referencias](https://img.shields.io/badge/Referencias-%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/UserTags/)
+[![YT](https://img.shields.io/badge/Youtube-TUTORIAL__PYTHON-red)](https://youtu.be/HlmUaYKjjZc)
+[![YT](https://img.shields.io/badge/Youtube-Scraping-red)](https://www.youtube.com/watch?v=ViOFqeRgu5s&feature=share)
+[![WB](https://img.shields.io/badge/Web-Beautiful%20Soup%20--%20Installation-orange)](https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_installation.htm)
 [![WA](https://img.shields.io/badge/WhatsApp-Escribenos-green)](https://api.whatsapp.com/send?phone=+593986771033&text=&source=&data=&app_absent=)
 
 [`UserTags`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un programa de búsquedad de tags de usuarios (ID) de StakOverFlow en español, que pide al usuario que ingrese un ID (número entero). Esta misma hará la búsqueda de dicha ID, comprobando si exite o no para luego mostrar un menú de selección de la forma a presentar la nube de palabras. Finalmete, presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
