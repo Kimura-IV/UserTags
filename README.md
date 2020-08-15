@@ -15,22 +15,10 @@
 
 ![Imagen](https://github.com/JoeTech-Studio/UserTags/blob/master/images/Menu%20Nubes%20De%20Palabras.jpeg)
 
-# ❱ Comandos Para Comprobar La Version De Python3.
+# ❱ Comando Para Comprobar La Version De Python3.
 
 ```
 $ python3 --version
-```
-
-# ❱ Para Instalar Python3 Version - 3.8.2.
-
-```
-$ sudo wget http://www.python.org/ftp/python/3.8.2/Python-3.8.2.tgz
-$ ls
-$ sudo tar xzf Python-3.8.2.tgz
-$ ls
-$ cd Python-3.8.2
-$ sudo ./configure --enable-optimizations
-$ sudo make altinstall
 ```
 
 # ❱ Para instalar pip.
@@ -42,21 +30,64 @@ $ python get-pip.py
 # ❱ Instalacion De Librerias Para Python3.
 
 ```
-$ sudo apt install python3
-
-$ sudo apt install python3-pip
-
-$ pip install pandas
 
 $ pip install matplotlib
-
-$ pip3 install numpy
-
-$ pip install pillow
 
 $ pip3 install wordcloud
 
 $ pip3 install requests
 
+$ pip install pillow
+
+$ pip install pandas
+
+$ pip3 install numpy
+
 $ pip3 install PIL
+
+```
+
+
+# ❱ Comandos Para Ejecutarlo En Linux.
+
+>NOTA: Estos comandos deben ser ejecutados en la terminal de linux ya sea que tenga instalado un SubSistema o algun otro con respecto al entorno de Linux.
+
+# ❱ Para Instalar Python3 Version - 3.8.2.
+```
+$ sudo apt update
+
+$ sudo apt upgrade
+
+$ sudo apt install python3
+
+$ sudo apt install python3-pip
+
+$ sudo wget http://www.python.org/ftp/python/3.8.2/Python-3.8.2.tgz
+
+$ ls
+
+$ sudo tar xzf Python-3.8.2.tgz
+
+$ ls
+
+$ cd Python-3.8.2
+
+$ sudo ./configure --enable-optimizations
+
+$ sudo make altinstall
+
+$ pip install matplotlib
+
+$ pip3 install wordcloud
+
+$ pip3 install requests
+
+$ pip install pillow
+
+$ pip install pandas
+
+$ pip3 install numpy
+
+$ pip3 install PIL
+
 ```
