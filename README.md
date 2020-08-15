@@ -10,7 +10,7 @@
 [![YT](https://img.shields.io/badge/Youtube-Web%20Scraping%20En%20Python-red)](https://www.youtube.com/watch?v=ViOFqeRgu5s&feature=share)
 [![YT](https://img.shields.io/badge/Youtube-Scraping%20Stack%20OverFlow-red)](https://www.youtube.com/watch?v=p_oTB7qz0Y4&t=299s)
 [![WB](https://img.shields.io/badge/Web-Beautiful%20Soup%20--%20Installation-orange)](https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_installation.htm)
-[![WB](https://img.shields.io/badge/Web-StackOverFlow-yellow)](https://es.stackoverflow.com/)
+[![WB](https://img.shields.io/badge/Web-Stack%20OverFlow%20--%20En%20Espa%C3%B1ol-yellow)](https://es.stackoverflow.com/)
 [![WA](https://img.shields.io/badge/WhatsApp-Escribenos-green)](https://api.whatsapp.com/send?phone=+593986771033&text=&source=&data=&app_absent=)
 
 [`UserTags`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un programa de búsquedad de tags de usuarios (ID) de StakOverFlow en español, que pide al usuario que ingrese un ID (número entero). Esta misma hará la búsqueda de dicha ID, comprobando si exite o no para luego mostrar un menú de selección de la forma a presentar la nube de palabras. Finalmete, presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
