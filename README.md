@@ -1,5 +1,6 @@
 # UserTags.
-[`UserTags`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un Programa de busquedad de tags de usuarios (ID) dentro de StakOverFlow en español, que pide al usuario que ingrese un ID (numero) y esta misma hará la busqueda de dicha ID del usuario comprobando si exites o no, para luego mostrar un menú de elección de la forma a presentar la nube de palabras y finalmete presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
+[`UserTags`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un programa de búsquedad de tags de usuarios (ID) de StakOverFlow en español, que pide al usuario que ingrese un ID (número entero). Esta misma hará la búsqueda de dicha ID, comprobando si exite o no para luego mostrar un menú de selección de la forma a presentar la nube de palabras. Finalmete, presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
+NOTA: Este proyecto fue inicialmente elaborado en la herramienta de Google Colab, por lo que podrá acceder al entorno al dar clic en la palabra "Usertags" de la descripción. Inmediatamente lo redireccionará al link y podrá ejecutar el programa.
 
 ![Logo](https://github.com/JoeTech-Studio/UserTags/blob/master/images/intro.gif)
 
@@ -52,4 +53,6 @@ $ pip3 install numpy
 $ pip install pillow
 
 $ pip3 install wordcloud
+
+$ pip3 install requests
 ```
