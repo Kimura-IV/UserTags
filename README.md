@@ -50,7 +50,7 @@ $ pip3 install PIL
 
 # ❱ Comandos Para Ejecutarlo En Linux.
 
->NOTA: Estos comandos deben ser ejecutados en la terminal de linux ya sea que tenga instalado un SubSistema o algun otro con respecto al entorno de Linux.
+>NOTA: Estos comandos deben ser ejecutados en la terminal de linux ya sea que tenga instalado un SubSistema o algun otro entorno con respecto a Linux.
 
 # ❱ Para Instalar Python3 Version - 3.8.2.
 ```
