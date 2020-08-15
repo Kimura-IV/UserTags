@@ -54,7 +54,6 @@ $ python get-pip.py
 # ❱ Instalacion De Librerias Para Python3.
 
 ```
-
 $ pip install matplotlib
 
 $ pip3 install wordcloud
@@ -70,7 +69,6 @@ $ pip3 install numpy
 $ pip3 install PIL
 
 ```
-
 
 # ❱ Comandos Para Ejecutarlo En Linux.
 
