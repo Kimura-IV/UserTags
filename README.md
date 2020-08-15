@@ -55,4 +55,6 @@ $ pip install pillow
 $ pip3 install wordcloud
 
 $ pip3 install requests
+
+$ pip3 install PIL
 ```
