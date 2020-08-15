@@ -29,6 +29,7 @@ $ sudo tar xzf Python-3.8.2.tgz
 $ ls
 $ cd Python-3.8.2
 $ sudo ./configure --enable-optimizations
+$ sudo make altinstall
 ```
 
 # ❱ Para instalar pip.
