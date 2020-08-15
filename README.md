@@ -1,5 +1,5 @@
 # UserTags.
-[!YT(https://img.shields.io/badge/Contactos-----%3E-blue)]
+[![Contactos](https://img.shields.io/badge/Contactos-----%3E-blue)]()
 [![YT](https://img.shields.io/badge/Youtube-Suscribete-red)](https://www.youtube.com/c/JoeTechStudio/)
 
 [`UserTags`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un programa de búsquedad de tags de usuarios (ID) de StakOverFlow en español, que pide al usuario que ingrese un ID (número entero). Esta misma hará la búsqueda de dicha ID, comprobando si exite o no para luego mostrar un menú de selección de la forma a presentar la nube de palabras. Finalmete, presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
