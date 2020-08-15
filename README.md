@@ -1,4 +1,8 @@
 # UserTags.
+[![Contributors](https://img.shields.io/badge/Contributors-%3D%3D%3E-brightgreen)](https://github.com/JoeTech-Studio/UserTags/)
+[![GitHub](https://img.shields.io/github/followers/JoeTech-Studio?style=social)](https://github.com/JoeTech-Studio/)
+
+
 [![Referencias](https://img.shields.io/badge/Referencias-%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/UserTags/)
 [![YT](https://img.shields.io/badge/Youtube-Tutorial%20Python%20--%20Instalar%20Librerias-red)](https://youtu.be/HlmUaYKjjZc)
 [![YT](https://img.shields.io/badge/Youtube-Web%20Scraping%20En%20Python-red)](https://www.youtube.com/watch?v=ViOFqeRgu5s&feature=share)
