@@ -23,6 +23,8 @@ $ python3 --version
 
 # ❱ Para instalar pip.
 
+> NOTA: El archivo `get-pip.py` se encuentra en el repositorio para ejecutar correctamente el siguiente comando debe descargar la herramienta.
+
 ```
 $ python get-pip.py
 ```
