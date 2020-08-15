@@ -15,7 +15,7 @@
 [![YT](https://img.shields.io/badge/Youtube-WordCloud%20With%20Python-red)](https://www.youtube.com/watch?v=eHxWshJpoRk&feature=youtu.be)
 [![YT](https://img.shields.io/badge/Youtube-C%C3%B3mo%20Hacer%20Web%20Scraping%20Con%20Python-red)](https://www.youtube.com/watch?v=NCfmEcyqgao&feature=youtu.be)
 [![YT](https://img.shields.io/badge/Youtube-Introducci%C3%B3n%20al%20Web%20Scraping-red)](https://www.youtube.com/watch?v=j2WF__eM-nE&feature=youtu.be)
-[![YT](https://img.shields.io/badge/Youtube-WEB%20SCRAPING-red0](https://www.youtube.com/watch?v=rhnMvvmfBFI&feature=youtu.be)
+[![YT](https://img.shields.io/badge/Youtube-WEB%20SCRAPING-red0)](https://www.youtube.com/watch?v=rhnMvvmfBFI&feature=youtu.be)
 [![WB](https://img.shields.io/badge/Web-Generate%20Word%20Clouds%20In%20Python-blue)](https://www.datacamp.com/community/tutorials/wordcloud-python)
 [![WB](https://img.shields.io/badge/Web-Beautiful%20Soup%20--%20Installation-orange)](https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_installation.htm)
 [![WB](https://img.shields.io/badge/Web-Stack%20OverFlow%20--%20En%20Espa%C3%B1ol-yellow)](https://es.stackoverflow.com/)
