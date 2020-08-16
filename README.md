@@ -100,7 +100,7 @@ $ sudo wget http://www.python.org/ftp/python/3.8.2/Python-3.8.2.tgz
 $ ls
 
 $ sudo tar xzf Python-3.8.2.tgz
-
+ 
 $ ls
 
 $ cd Python-3.8.2
