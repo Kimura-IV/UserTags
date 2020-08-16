@@ -40,6 +40,13 @@
 ![Imagen](https://github.com/JoeTech-Studio/UserTags/blob/master/images/Menu%20Nubes%20De%20Palabras.jpeg)
 
 # ❱ Validaciones.
+Se tomó en cuenta los posbiles errores que se podrías encontrar al momento de realizar este programa, y se diseño las siguiente lista de validaciónes:
+  Validación para usuario:
+  * Validación de ingreso de datos.
+  Validación en código:
+  * Validación de no etiquetas encontradas
+  * VAlidación de cantidad de números grnades (ejem. '3k')
+  * Validación de usuario no existente
 
 # ❱ Comando Para Comprobar La Version De Python3.
 
