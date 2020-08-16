@@ -39,6 +39,8 @@
 
 ![Imagen](https://github.com/JoeTech-Studio/UserTags/blob/master/images/Menu%20Nubes%20De%20Palabras.jpeg)
 
+# ❱ Validaciones.
+
 # ❱ Comando Para Comprobar La Version De Python3.
 
 ```
