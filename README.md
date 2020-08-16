@@ -44,9 +44,9 @@ Se tomó en cuenta los posbiles errores que se podrías encontrar al momento de 
  >Validación para usuario:
   * Validación de ingreso de datos.
  >Validación en código:
-  * Validación de no etiquetas encontradas
-  * VAlidación de cantidad de números grnades (ejem. '3k')
-  * Validación de usuario no existente
+  * Validación de no etiquetas encontradas.
+  * Validación de cantidad de números grandes (ejem. '3k').
+  * Validación de usuario no existente.
 
 # ❱ Comando Para Comprobar La Version De Python3.
 
