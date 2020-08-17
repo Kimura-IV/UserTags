@@ -23,9 +23,9 @@
 [![WB](https://img.shields.io/badge/Web-Stack%20OverFlow%20--%20En%20Espa%C3%B1ol-yellow)](https://es.stackoverflow.com/)
 [![WA](https://img.shields.io/badge/WhatsApp-Escribenos-green)](https://api.whatsapp.com/send?phone=+593986771033&text=&source=&data=&app_absent=)
 
-[`>>UserTags<<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un programa de búsquedad de tags de usuarios (ID) de StakOverFlow en español, que pide al usuario que ingrese un ID (número entero). Esta misma hará la búsqueda de dicha ID, comprobando si exite o no para luego mostrar un menú de selección de la forma a presentar la nube de palabras. Finalmete, presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
+[`>> UserTags <<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un programa de búsquedad de tags de usuarios (ID) de StakOverFlow en español, que pide al usuario que ingrese un ID (número entero). Esta misma hará la búsqueda de dicha ID, comprobando si exite o no para luego mostrar un menú de selección de la forma a presentar la nube de palabras. Finalmete, presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
 
-> NOTA: Este proyecto fue inicialmente elaborado en la herramienta de Google Colab, por lo que podrá acceder al entorno al dar clic en la palabra [`>>UserTags<<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) de la descripción. Inmediatamente lo redireccionará al link y podrá ejecutar el programa.
+> NOTA: Este proyecto fue inicialmente elaborado en la herramienta de Google Colab, por lo que podrá acceder al entorno al dar clic en la palabra [`>> UserTags <<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) de la descripción. Inmediatamente lo redireccionará al link y podrá ejecutar el programa.
 
 ![Logo](https://github.com/JoeTech-Studio/UserTags/blob/master/images/intro.gif)
 
